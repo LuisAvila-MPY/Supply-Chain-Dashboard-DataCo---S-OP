@@ -1,0 +1,6 @@
+A base de dados original "DataCoSupplyChainDataset.csv" possui aproximadamente 93 MB.
+
+Para rodar a pipeline localmente:
+1. Baixe o dataset público no Kaggle:https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
+2. Salve o arquivo com o nome "DataCoSupplyChainDataset.csv" nesta pasta (01_dados_brutos/).
+3. Execute o script Python "03_scripts_python/04_Ingestao_dados.py".
